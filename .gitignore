@@ -1,0 +1,9 @@
+# Source material used to design the demo, not part of the public Pages site.
+/GRC Practice Lab _ The Complete GRC Learning Platform.html
+/Technical_Proposal_ERM_Platform.docx
+/ISO Gap Assessment Report.xlsx
+/Report Awareness Cyber Security and Training Program.xlsx
+
+# Local tooling and generated artifacts.
+.DS_Store
+*.log
