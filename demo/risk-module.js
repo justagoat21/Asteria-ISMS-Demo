@@ -16,7 +16,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
-  "review": "15 Nov 2026",
+  "review": "15 Jul 2026",
   "status": "Risk Accepted"
  },
  {
@@ -34,7 +34,7 @@
   "treatment": "Reduce",
   "action": "Mitigate: implement and verify compensating controls for inadequate security controls and processes protecting data integrity on sip infrastructure, then re-assess at the next review cycle.",
   "due": "31 Oct 2026",
-  "review": "15 Dec 2026",
+  "review": "22 Jul 2026",
   "status": "Mitigated Risk"
  },
  {
@@ -52,7 +52,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
-  "review": "15 Jan 2027",
+  "review": "29 Jul 2026",
   "status": "Risk Accepted"
  },
  {
@@ -70,7 +70,7 @@
   "treatment": "Reduce",
   "action": "Mitigate: implement and verify compensating controls for inadequate security controls and processes leaving exposed vulnerable components such as ssh or ipsec vpn services, then re-assess at the next review cycle.",
   "due": "31 Dec 2026",
-  "review": "15 Feb 2027",
+  "review": "01 Aug 2026",
   "status": "Mitigated Risk"
  },
  {
@@ -88,7 +88,7 @@
   "treatment": "Reduce",
   "action": "Mitigate: implement and verify compensating controls for weak or unencrypted communication protocols in sip infrastructure, then re-assess at the next review cycle.",
   "due": "31 Jan 2027",
-  "review": "15 Mar 2027",
+  "review": "05 Aug 2026",
   "status": "Mitigated Risk"
  },
  {
@@ -106,7 +106,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
-  "review": "15 Apr 2027",
+  "review": "10 Aug 2026",
   "status": "Risk Accepted"
  },
  {
@@ -124,7 +124,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
-  "review": "15 Oct 2026",
+  "review": "19 Aug 2026",
   "status": "Risk Accepted"
  },
  {
@@ -142,7 +142,7 @@
   "treatment": "Reduce",
   "action": "Mitigate: implement and verify compensating controls for inadequate password management leaving management interfaces with weak or default credentials, then re-assess at the next review cycle.",
   "due": "30 Sep 2026",
-  "review": "15 Nov 2026",
+  "review": "22 Aug 2026",
   "status": "Mitigated Risk"
  },
  {
@@ -160,7 +160,7 @@
   "treatment": "Reduce",
   "action": "Mitigate: implement and verify compensating controls for security weaknesses in infrastructure and processes leaving management interfaces exposed, then re-assess at the next review cycle.",
   "due": "31 Oct 2026",
-  "review": "15 Dec 2026",
+  "review": "26 Aug 2026",
   "status": "Mitigated Risk"
  },
  {
@@ -178,7 +178,7 @@
   "treatment": "Reduce",
   "action": "Mitigate: implement and verify compensating controls for inadequate security controls and processes leaving internet-facing interfaces exposed to exploitation, then re-assess at the next review cycle.",
   "due": "30 Nov 2026",
-  "review": "15 Jan 2027",
+  "review": "29 Aug 2026",
   "status": "Mitigated Risk"
  },
  {
@@ -196,7 +196,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
-  "review": "15 Feb 2027",
+  "review": "01 Sep 2026",
   "status": "Risk Accepted"
  },
  {
@@ -214,7 +214,7 @@
   "treatment": "Reduce",
   "action": "Mitigate: implement and verify compensating controls for inadequate security awareness among employees and administrators, then re-assess at the next review cycle.",
   "due": "31 Jan 2027",
-  "review": "15 Mar 2027",
+  "review": "04 Sep 2026",
   "status": "Mitigated Risk"
  },
  {
@@ -232,7 +232,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
-  "review": "15 Apr 2027",
+  "review": "08 Sep 2026",
   "status": "Risk Accepted"
  },
  {
@@ -250,7 +250,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
-  "review": "15 Oct 2026",
+  "review": "11 Sep 2026",
   "status": "Risk Accepted"
  },
  {
@@ -268,7 +268,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
-  "review": "15 Nov 2026",
+  "review": "19 Aug 2026",
   "status": "Risk Accepted"
  },
  {
@@ -286,7 +286,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
-  "review": "15 Dec 2026",
+  "review": "22 Aug 2026",
   "status": "Risk Accepted"
  },
  {
@@ -304,7 +304,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
-  "review": "15 Jan 2027",
+  "review": "26 Aug 2026",
   "status": "Risk Accepted"
  },
  {
@@ -322,7 +322,7 @@
   "treatment": "Reduce",
   "action": "Mitigate: implement and verify compensating controls for default passwords not changed on network systems and devices, then re-assess at the next review cycle.",
   "due": "31 Dec 2026",
-  "review": "15 Feb 2027",
+  "review": "29 Aug 2026",
   "status": "Mitigated Risk"
  },
  {
@@ -340,7 +340,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
-  "review": "15 Mar 2027",
+  "review": "01 Sep 2026",
   "status": "Risk Accepted"
  },
  {
@@ -358,7 +358,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
-  "review": "15 Apr 2027",
+  "review": "04 Sep 2026",
   "status": "Risk Accepted"
  },
  {
@@ -376,7 +376,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
-  "review": "15 Oct 2026",
+  "review": "08 Sep 2026",
   "status": "Risk Accepted"
  },
  {
@@ -394,7 +394,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
-  "review": "15 Nov 2026",
+  "review": "11 Sep 2026",
   "status": "Risk Accepted"
  },
  {
@@ -412,7 +412,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
-  "review": "15 Dec 2026",
+  "review": "19 Aug 2026",
   "status": "Risk Accepted"
  },
  {
@@ -430,7 +430,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
-  "review": "15 Jan 2027",
+  "review": "22 Aug 2026",
   "status": "Risk Accepted"
  },
  {
@@ -448,7 +448,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
-  "review": "15 Feb 2027",
+  "review": "26 Aug 2026",
   "status": "Risk Accepted"
  },
  {
@@ -466,7 +466,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
-  "review": "15 Mar 2027",
+  "review": "29 Aug 2026",
   "status": "Risk Accepted"
  },
  {
@@ -484,7 +484,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
-  "review": "15 Apr 2027",
+  "review": "01 Sep 2026",
   "status": "Risk Accepted"
  },
  {
@@ -502,7 +502,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
-  "review": "15 Oct 2026",
+  "review": "04 Sep 2026",
   "status": "Risk Accepted"
  },
  {
@@ -520,7 +520,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
-  "review": "15 Nov 2026",
+  "review": "08 Sep 2026",
   "status": "Risk Accepted"
  },
  {
@@ -538,7 +538,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
-  "review": "15 Dec 2026",
+  "review": "11 Sep 2026",
   "status": "Risk Accepted"
  },
  {
@@ -556,7 +556,7 @@
   "treatment": "Accept",
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
-  "review": "15 Jan 2027",
+  "review": "19 Aug 2026",
   "status": "Risk Accepted"
  },
  {
@@ -2333,13 +2333,14 @@
   const assetName=id=>(state.assets||[]).find(a=>a.id===id)?.name || id;
   const riskAssetsPicker=risk=>`<details class="evidence-picker risk-assets-picker" ontoggle="positionDropdown(this)"><summary>${risk.assets?.length?`${risk.assets.length} linked assets`:'Link assets'} <span>⌄</span></summary><div class="evidence-menu"><input class="assignment-search" type="search" placeholder="Search assets..." oninput="filterAssignmentMenu(this)" />${(state.assets||[]).map(asset=>`<label><input type="checkbox" ${risk.assets?.includes(asset.id)?'checked':''} onchange="toggleRiskAsset('${risk.id}','${asset.id}',this.checked)" /><span>${asset.name}<small>${asset.domain} · ${asset.digitalType || asset.category}</small></span></label>`).join('')}</div></details>`;
   window.toggleRiskAsset=function(riskId,assetId,checked){ const risk=state.risks.find(r=>r.id===riskId); if(!risk)return; risk.assets=risk.assets||[]; risk.assets=risk.assets.filter(id=>id!==assetId); if(checked)risk.assets.push(assetId); saveRisks(); const open=document.querySelector('.risk-assets-picker[open]'); if(open){const summary=open.querySelector('summary'); summary.innerHTML=`${risk.assets.length?`${risk.assets.length} linked assets`:'Link assets'} <span>⌄</span>`;} toast(checked?'Asset linked to risk':'Asset unlinked from risk'); };
-  function riskRow(risk){return `<tr><td><span class="control-ref">${risk.id}</span></td><td><div class="control-title clickable-title" onclick="openRisk('${risk.id}')">${risk.title}</div><div class="control-sub">${risk.category}</div></td><td>${levelBadge(score(risk))}</td><td>${levelBadge(residual(risk))}</td><td>${riskAssetsPicker(risk)}<div class="control-sub">${risk.assets?.length||0} linked</div></td><td><div class="control-sub">${risk.owner||'Unassigned'}</div><div class="control-sub">${risk.due||'No due date'}</div></td><td>${risk.status==='Mitigated Risk'?'<span class="badge amber">Mitigated risk</span>':risk.status==='Risk Transferred'?'<span class="badge blue">Risk transferred</span>':risk.status==='Risk Avoided'?'<span class="badge green">Risk avoided</span>':'<span class="badge gray">Risk accepted</span>'}</td><td><button class="table-action" onclick="openRisk('${risk.id}')">Inspect</button></td></tr>`;}
+  function riskRow(risk){return `<tr><td><span class="control-ref">${risk.id}</span></td><td><div class="control-title clickable-title" onclick="openRisk('${risk.id}')">${risk.title}</div><div class="control-sub">${risk.category}</div></td><td>${levelBadge(score(risk))}</td><td>${levelBadge(residual(risk))}</td><td>${riskAssetsPicker(risk)}<div class="control-sub">${risk.assets?.length||0} linked</div></td><td><div class="control-sub">${risk.owner||'Unassigned'}</div><div class="control-sub">${risk.due||'No due date'}</div>${risk.lastReview?`<div class="control-sub">Reviewed ${fmtDate(risk.lastReview)}</div>`:''}</td><td>${risk.status==='Mitigated Risk'?'<span class="badge amber">Mitigated risk</span>':risk.status==='Risk Transferred'?'<span class="badge blue">Risk transferred</span>':risk.status==='Risk Avoided'?'<span class="badge green">Risk avoided</span>':'<span class="badge gray">Risk accepted</span>'}</td><td><button class="table-action" onclick="openRisk('${risk.id}')">Inspect</button></td></tr>`;}
 const parseRiskDate=d=>{ if(!d) return null; const t=d.indexOf('-')>-1?new Date(d+'T00:00:00'):new Date(d); return isNaN(t)?null:t; };
-  function riskRegisterPage(){  const risks=riskStore(),query=(state.riskQuery||'').toLowerCase(),category=state.riskCategory||'all',status=state.riskStatus||'all',categories=[...new Set(risks.map(r=>r.category))].sort(); const list=risks.filter(r=>(category==='all'||r.category===category)&&(status==='all'||r.status===status)&&`${r.id} ${r.title} ${r.category} ${r.owner} ${r.description}`.toLowerCase().includes(query)); const high=risks.filter(r=>level(score(r))==='High'||level(score(r))==='Critical').length,open=risks.filter(r=>r.status==='Mitigated Risk'||r.status==='Risk Transferred').length,overdue=risks.filter(r=>r.due && parseRiskDate(r.due)<new Date('2026-08-15T00:00:00') && r.status!=='Risk Accepted').length; return `<div class="risk-metrics"><div class="card evidence-metric"><span class="eyebrow">◉ Total risks</span><strong>${risks.length}</strong><small>In the fictional register</small></div><div class="card evidence-metric"><span class="eyebrow">▲ High exposure</span><strong class="metric-alert">${high}</strong><small>High or critical inherent risk</small></div><div class="card evidence-metric"><span class="eyebrow">✚ Open treatment</span><strong>${open}</strong><small>Need action or monitoring</small></div><div class="card evidence-metric"><span class="eyebrow">↻ Overdue review</span><strong class="metric-alert">${overdue}</strong><small>Past the planned date</small></div></div><div class="risk-method"><div><span class="eyebrow">Risk method</span><strong>Likelihood × impact</strong><small>Control effectiveness reduces residual exposure. Keep the calculation visible to the reviewer.</small></div><div class="risk-scale"><span class="risk-level low">Low 1–4</span><span class="risk-level medium">Medium 5–9</span><span class="risk-level high">High 10–15</span><span class="risk-level critical">Critical 16–25</span></div></div><div class="card panel risk-register-panel"><div class="panel-head"><div><h2>Risk register</h2><p>${list.length} visible risks · inherent and residual scores are shown together</p></div><button class="link" onclick="exportRisksExcel()">Export to Excel</button></div><div class="asset-toolbar"><div class="search"><input placeholder="Search risk, category, owner..." value="${state.riskQuery||''}" oninput="state.riskQuery=this.value;render()" /></div><select class="select" onchange="state.riskCategory=this.value;render()"><option value="all">All risk categories</option>${categories.map(c=>`<option ${category===c?'selected':''}>${c}</option>`).join('')}</select><select class="select" onchange="state.riskStatus=this.value;render()"><option value="all">All statuses</option><option ${status==='Mitigated Risk'?'selected':''}>Mitigated Risk</option><option ${status==='Risk Accepted'?'selected':''}>Risk Accepted</option><option ${status==='Risk Transferred'?'selected':''}>Risk Transferred</option><option ${status==='Risk Avoided'?'selected':''}>Risk Avoided</option></select></div><div style="overflow:auto"><table><thead><tr><th>ID</th><th>Risk</th><th>Inherent</th><th>Residual</th><th>Related assets</th><th>Owner / due</th><th>Status</th><th></th></tr></thead><tbody>${list.map(riskRow).join('')||'<tr><td colspan="8" class="empty-state">No risks match this view.</td></tr>'}</tbody></table></div></div><div class="risk-insight-grid"><div class="card panel"><div class="panel-head"><div><h2>Risk treatment queue</h2><p>The next decision for each high-exposure risk.</p></div></div>${risks.filter(r=>level(score(r))==='High'||level(score(r))==='Critical').slice(0,3).map(r=>`<div class="risk-queue-row"><span>${levelBadge(residual(r))}</span><div><strong>${r.title}</strong><small>${r.owner} · ${r.status} · due ${r.due}</small></div><button class="table-action" onclick="openRisk('${r.id}')">Review</button></div>`).join('')||'<div class="empty-state">No high exposure risks.</div>'}</div><div class="card panel"><div class="panel-head"><div><h2>Risk workflow</h2><p>How this register feeds the ISMS.</p></div></div><div class="risk-workflow"><span>Identify</span><i>→</i><span>Assess</span><i>→</i><span>Treat</span><i>→</i><span>Review</span></div></div></div>`; }
-function riskSubNav(sub){ return `<div class="risk-subnav">${[['register','◉ Risk register'],['treatment','✚ Treatment plans'],['kri','◔ Key risk indicators'],['reviews','↻ Risk reviews']].map(([key,label])=>`<button class="${sub===key?'active':''}" onclick="setRiskSub('${key}')">${label}</button>`).join('')}</div>`; }
+  const fmtDate=d=>{ const t=parseRiskDate(d); if(!t) return ''; return ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][t.getMonth()]+' '+t.getDate()+' '+t.getFullYear(); };
+  function riskRegisterPage(){  const risks=riskStore(),query=(state.riskQuery||'').toLowerCase(),category=state.riskCategory||'all',status=state.riskStatus||'all',categories=[...new Set(risks.map(r=>r.category))].sort(); const list=risks.filter(r=>(category==='all'||r.category===category)&&(status==='all'||r.status===status)&&`${r.id} ${r.title} ${r.category} ${r.owner} ${r.description}`.toLowerCase().includes(query)); const high=risks.filter(r=>level(score(r))==='High'||level(score(r))==='Critical').length,open=risks.filter(r=>r.status==='Mitigated Risk'||r.status==='Risk Transferred').length,overdue=risks.filter(r=>r.due && parseRiskDate(r.due)<new Date('2026-08-15T00:00:00') && r.status!=='Risk Accepted').length; return `<div class="risk-metrics"><div class="card evidence-metric"><span class="eyebrow">● Total risks</span><strong>${risks.length}</strong><small>In the fictional register</small></div><div class="card evidence-metric"><span class="eyebrow">▲ High exposure</span><strong class="metric-alert">${high}</strong><small>High or critical inherent risk</small></div><div class="card evidence-metric"><span class="eyebrow">✚ Open treatment</span><strong>${open}</strong><small>Need action or monitoring</small></div><div class="card evidence-metric"><span class="eyebrow">↻ Overdue review</span><strong class="metric-alert">${overdue}</strong><small>Past the planned date</small></div></div><div class="risk-method"><div><span class="eyebrow">Risk method</span><strong>Likelihood × impact</strong><small>Control effectiveness reduces residual exposure. Keep the calculation visible to the reviewer.</small></div><div class="risk-scale"><span class="risk-level low">Low 1–4</span><span class="risk-level medium">Medium 5–9</span><span class="risk-level high">High 10–15</span><span class="risk-level critical">Critical 16–25</span></div></div><div class="card panel risk-register-panel"><div class="panel-head"><div><h2>Risk register</h2><p>${list.length} visible risks · inherent and residual scores are shown together</p></div><button class="link" onclick="exportRisksExcel()">Export to Excel</button></div><div class="asset-toolbar"><div class="search"><input placeholder="Search risk, category, owner..." value="${state.riskQuery||''}" oninput="state.riskQuery=this.value;render()" /></div><select class="select" onchange="state.riskCategory=this.value;render()"><option value="all">All risk categories</option>${categories.map(c=>`<option ${category===c?'selected':''}>${c}</option>`).join('')}</select><select class="select" onchange="state.riskStatus=this.value;render()"><option value="all">All statuses</option><option ${status==='Mitigated Risk'?'selected':''}>Mitigated Risk</option><option ${status==='Risk Accepted'?'selected':''}>Risk Accepted</option><option ${status==='Risk Transferred'?'selected':''}>Risk Transferred</option><option ${status==='Risk Avoided'?'selected':''}>Risk Avoided</option></select></div><div style="overflow:auto"><table><thead><tr><th>ID</th><th>Risk</th><th>Inherent</th><th>Residual</th><th>Related assets</th><th>Owner / due</th><th>Status</th><th></th></tr></thead><tbody>${list.map(riskRow).join('')||'<tr><td colspan="8" class="empty-state">No risks match this view.</td></tr>'}</tbody></table></div></div><div class="risk-insight-grid"><div class="card panel"><div class="panel-head"><div><h2>Risk treatment queue</h2><p>The next decision for each high-exposure risk.</p></div></div>${risks.filter(r=>level(score(r))==='High'||level(score(r))==='Critical').slice(0,3).map(r=>`<div class="risk-queue-row"><span>${levelBadge(residual(r))}</span><div><strong>${r.title}</strong><small>${r.owner} · ${r.status} · due ${r.due}</small></div><button class="table-action" onclick="openRisk('${r.id}')">Review</button></div>`).join('')||'<div class="empty-state">No high exposure risks.</div>'}</div><div class="card panel"><div class="panel-head"><div><h2>Risk workflow</h2><p>How this register feeds the ISMS.</p></div></div><div class="risk-workflow"><span>Identify</span><i>→</i><span>Assess</span><i>→</i><span>Treat</span><i>→</i><span>Review</span></div></div></div>`; }
+function riskSubNav(sub){ return `<div class="risk-subnav">${[['register','● Risk register'],['treatment','✚ Treatment plans'],['kri','◐ Key risk indicators'],['reviews','↻ Risk reviews']].map(([key,label])=>`<button class="${sub===key?'active':''}" onclick="setRiskSub('${key}')">${label}</button>`).join('')}</div>`; }
   window.setRiskSub=function(sub){ state.riskSub=sub; render(); };
   function riskPage(){ const sub=state.riskSub||'register'; const action=sub==='register'?'<button class="button button-primary" onclick="openRiskCreate()">+ Add risk</button>':sub==='kri'?'<button class="button button-primary" onclick="openKriCreate()">+ Add KRI</button>':sub==='treatment'?'<button class="button button-primary" onclick="exportTreatmentExcel()">Export plan to Excel</button>':'<button class="button button-primary" onclick="exportRisksExcel()">Export register to Excel</button>'; const head=`<div class="page-head"><div><div class="eyebrow">Module 02 / Risk management</div><h1>See risk before it becomes loss.</h1><p class="subhead">A working risk register that connects business impact, assets, control effectiveness, owners, treatment decisions, and review dates.</p></div>${action}</div>`; return layout(head+riskSubNav(sub)+(sub==='register'?riskRegisterPage():sub==='treatment'?riskTreatmentPage():sub==='kri'?riskKriPage():riskReviewPage()),'Risk management'); }
-  function riskTreatmentPage(){ const risks=riskStore(); const mitigated=risks.filter(r=>r.status==='Mitigated Risk'); const today=new Date('2026-08-15T00:00:00'); const overdue=mitigated.filter(r=>r.due && parseRiskDate(r.due)<today).length; const dueSoon=mitigated.filter(r=>r.due && parseRiskDate(r.due)>=today && parseRiskDate(r.due)<=new Date('2026-10-15T00:00:00')).length; const avgResidual=mitigated.length?Math.round(mitigated.reduce((n,r)=>n+residual(r),0)/mitigated.length*10)/10:0; const decisions=[['Mitigated Risk','#79a58d'],['Risk Accepted','#7c8889'],['Risk Transferred','#c79b58'],['Risk Avoided','#c9684d']]; const rows=mitigated.map(r=>`<tr><td><span class="control-ref">${r.id}</span><div class="control-title clickable-title" onclick="openRisk('${r.id}')">${r.title}</div></td><td><div class="plan-text">${r.action||'No remediation plan recorded.'}</div></td><td><div class="control-sub">${r.owner||'Unassigned'}</div></td><td>${r.due||'Not set'}${r.due && parseRiskDate(r.due)<today?'<span class="badge red" style="margin-left:6px">Overdue</span>':''}</td><td>${r.review||'Not set'}</td><td>${levelBadge(residual(r))}</td><td><button class="table-action" onclick="openRisk('${r.id}')">Inspect</button></td></tr>`).join(''); return `<div class="risk-metrics"><div class="card evidence-metric"><span class="eyebrow">✚ In treatment</span><strong>${mitigated.length}</strong><small>Risks with a mitigation plan</small></div><div class="card evidence-metric"><span class="eyebrow">◷ Due soon</span><strong>${dueSoon}</strong><small>Plans landing in 60 days</small></div><div class="card evidence-metric"><span class="eyebrow">▲ Overdue plans</span><strong class="metric-alert">${overdue}</strong><small>Past the planned date</small></div><div class="card evidence-metric"><span class="eyebrow">▤ Avg residual</span><strong>${avgResidual}</strong><small>Across mitigated risks</small></div></div><div class="card panel"><div class="panel-head"><div><h2>Treatment plans</h2><p>Every mitigated risk with its remediation plan, owner, and dates.</p></div><button class="link" onclick="exportTreatmentExcel()">Export plan to Excel</button></div><div style="overflow:auto"><table><thead><tr><th>Risk</th><th>Remediation plan</th><th>Owner</th><th>Due</th><th>Next review</th><th>Residual</th><th></th></tr></thead><tbody>${rows||'<tr><td colspan="7" class="empty-state">No mitigated risks yet.</td></tr>'}</tbody></table></div></div><div class="risk-insight-grid"><div class="card panel"><div class="panel-head"><div><h2>Treatment decisions</h2><p>How the full register is being handled.</p></div></div><div class="decision-list">${decisions.map(([name,color])=>{ const n=risks.filter(r=>r.status===name).length; return `<div class="decision-row"><span class="decision-dot" style="background:${color}"></span><div><strong>${name}</strong><small>${n} risks</small></div><div class="decision-bar"><i style="width:${Math.round(n/risks.length*100)}%;background:${color}"></i></div><b>${Math.round(n/risks.length*100)}%</b></div>`; }).join('')}</div></div><div class="card panel"><div class="panel-head"><div><h2>Treatment workflow</h2><p>How plans move from decision to closure.</p></div></div><div class="risk-workflow"><span>Decide</span><i>→</i><span>Plan</span><i>→</i><span>Execute</span><i>→</i><span>Re-assess</span></div><p class="control-sub" style="margin-top:14px">A mitigated risk stays in the treatment plan until its residual score is re-assessed at the next review date.</p></div></div>`; }
+  function riskTreatmentPage(){ const risks=riskStore(); const mitigated=risks.filter(r=>r.status==='Mitigated Risk'); const today=new Date('2026-08-15T00:00:00'); const overdue=mitigated.filter(r=>r.due && parseRiskDate(r.due)<today).length; const dueSoon=mitigated.filter(r=>r.due && parseRiskDate(r.due)>=today && parseRiskDate(r.due)<=new Date('2026-10-15T00:00:00')).length; const avgResidual=mitigated.length?Math.round(mitigated.reduce((n,r)=>n+residual(r),0)/mitigated.length*10)/10:0; const decisions=[['Mitigated Risk','#79a58d'],['Risk Accepted','#7c8889'],['Risk Transferred','#c79b58'],['Risk Avoided','#c9684d']]; const rows=mitigated.map(r=>`<tr><td><span class="control-ref">${r.id}</span><div class="control-title clickable-title" onclick="openRisk('${r.id}')">${r.title}</div></td><td><div class="plan-text">${r.action||'No remediation plan recorded.'}</div></td><td><div class="control-sub">${r.owner||'Unassigned'}</div></td><td>${r.due||'Not set'}${r.due && parseRiskDate(r.due)<today?'<span class="badge red" style="margin-left:6px">Overdue</span>':''}</td><td>${r.review||'Not set'}</td><td>${levelBadge(residual(r))}</td><td><button class="table-action" onclick="openRisk('${r.id}')">Inspect</button></td></tr>`).join(''); return `<div class="risk-metrics"><div class="card evidence-metric"><span class="eyebrow">✚ In treatment</span><strong>${mitigated.length}</strong><small>Risks with a mitigation plan</small></div><div class="card evidence-metric"><span class="eyebrow">◐ Due soon</span><strong>${dueSoon}</strong><small>Plans landing in 60 days</small></div><div class="card evidence-metric"><span class="eyebrow">▲ Overdue plans</span><strong class="metric-alert">${overdue}</strong><small>Past the planned date</small></div><div class="card evidence-metric"><span class="eyebrow">● Avg residual</span><strong>${avgResidual}</strong><small>Across mitigated risks</small></div></div><div class="card panel"><div class="panel-head"><div><h2>Treatment plans</h2><p>Every mitigated risk with its remediation plan, owner, and dates.</p></div><button class="link" onclick="exportTreatmentExcel()">Export plan to Excel</button></div><div style="overflow:auto"><table><thead><tr><th>Risk</th><th>Remediation plan</th><th>Owner</th><th>Due</th><th>Next review</th><th>Residual</th><th></th></tr></thead><tbody>${rows||'<tr><td colspan="7" class="empty-state">No mitigated risks yet.</td></tr>'}</tbody></table></div></div><div class="risk-insight-grid"><div class="card panel"><div class="panel-head"><div><h2>Treatment decisions</h2><p>How the full register is being handled.</p></div></div><div class="decision-list">${decisions.map(([name,color])=>{ const n=risks.filter(r=>r.status===name).length; return `<div class="decision-row"><span class="decision-dot" style="background:${color}"></span><div><strong>${name}</strong><small>${n} risks</small></div><div class="decision-bar"><i style="width:${Math.round(n/risks.length*100)}%;background:${color}"></i></div><b>${Math.round(n/risks.length*100)}%</b></div>`; }).join('')}</div></div><div class="card panel"><div class="panel-head"><div><h2>Treatment workflow</h2><p>How plans move from decision to closure.</p></div></div><div class="risk-workflow"><span>Decide</span><i>→</i><span>Plan</span><i>→</i><span>Execute</span><i>→</i><span>Re-assess</span></div><p class="control-sub" style="margin-top:14px">A mitigated risk stays in the treatment plan until its residual score is re-assessed at the next review date.</p></div></div>`; }
   const seedKRIs=[
     {id:'KRI-01',name:'Production assets at end of vendor support',description:'Share of production assets running software or hardware past end-of-support dates, exposing the estate to unpatched vulnerabilities.',riskIds:['R-001','R-112','R-122'],formula:'(Assets past end-of-support / total production assets) × 100',unit:'%',warning:15,breach:25,value:12,direction:'above',trend:'Improving',frequency:'Monthly',owner:'Omar Al-Rashid',measured:'2026-07-31',review:'2026-08-31'},
     {id:'KRI-02',name:'Unauthorized access attempts on core services',description:'Count of rejected or suspicious login attempts against core VoIP, directory, and billing services per week.',riskIds:['R-003','R-013'],formula:'Suspicious login attempts per week',unit:'/wk',warning:50,breach:120,value:38,direction:'above',trend:'Stable',frequency:'Weekly',owner:'Sara Al-Mansouri',measured:'2026-08-14',review:'2026-08-21'},
@@ -2356,10 +2357,14 @@ function riskSubNav(sub){ return `<div class="risk-subnav">${[['register','◉ R
   function saveKris(){ localStorage.setItem('asteria-kris',JSON.stringify(state.kris||[])); }
   function kriLevel(k){ if(k.direction==='below') return k.value<=k.breach?'Breach':k.value<=k.warning?'Watch':'Within tolerance'; return k.value>=k.breach?'Breach':k.value>=k.warning?'Watch':'Within tolerance'; }
   function kriBadge(k){ const lv=kriLevel(k); return lv==='Breach'?'<span class="badge red">Breach</span>':lv==='Watch'?'<span class="badge amber">Watch</span>':'<span class="badge green">Within tolerance</span>'; }
-  function kriBar(k){ const pct=Math.min(100,Math.round(k.value/k.breach*100)); const lv=kriLevel(k); const color=lv==='Breach'?'#c9684d':lv==='Watch'?'#c79b58':'#79a58d'; return `<span class="kri-value"><i style="width:${pct}%;background:${color}"></i></span>`; }
-  function kriTrend(k){ return k.trend==='Improving'?'<span class="trend-down">▼ Improving</span>':k.trend==='Deteriorating'?'<span class="trend-up">▲ Deteriorating</span>':'<span class="trend-flat">► Stable</span>'; }
-  function riskKriPage(){ const kris=kriStore(); const breach=kris.filter(k=>kriLevel(k)==='Breach').length, watch=kris.filter(k=>kriLevel(k)==='Watch').length; const rows=kris.map(k=>`<tr><td><div class="control-title clickable-title" onclick="openKriEdit('${k.id}')">${k.name}</div><div class="control-sub">${k.description}</div></td><td><div class="kri-now"><b>${k.value}${k.unit}</b>${kriBar(k)}</div><div class="control-sub">Limit ${k.warning}${k.unit} / ${k.breach}${k.unit}</div></td><td>${kriBadge(k)}</td><td>${kriTrend(k)}</td><td><div class="control-sub">${k.owner}</div><div class="control-sub">${k.frequency}</div></td><td><div class="control-sub">Measured ${k.measured||'not yet'}</div><div class="control-sub">Next ${k.review||'not set'}</div></td><td><div class="control-sub">${(k.riskIds||[]).map(id=>`<span class="control-ref">${id}</span>`).join(' ')}</div></td><td><div class="row-actions"><button class="table-action" onclick="openKriEdit('${k.id}')">Edit</button><button class="table-action" onclick="deleteKri('${k.id}')">Remove</button></div></td></tr>`).join(''); return `<div class="risk-metrics"><div class="card evidence-metric"><span class="eyebrow">◔ Active KRIs</span><strong>${kris.length}</strong><small>Indicators under monitoring</small></div><div class="card evidence-metric"><span class="eyebrow">◷ Watch</span><strong class="metric-alert">${watch}</strong><small>Above warning limit</small></div><div class="card evidence-metric"><span class="eyebrow">▲ Breach</span><strong class="metric-alert">${breach}</strong><small>Above breach limit</small></div><div class="card evidence-metric"><span class="eyebrow">◉ Monitored risks</span><strong>${new Set(kris.flatMap(k=>k.riskIds||[])).size}</strong><small>Covered by the register</small></div></div><div class="card panel"><div class="panel-head"><div><h2>Key risk indicators</h2><p>Early-warning signals that follow each risk through its treatment and review cycle.</p></div><button class="link" onclick="exportKrisExcel()">Export to Excel</button></div><div style="overflow:auto"><table><thead><tr><th>Indicator</th><th>Current value</th><th>Status</th><th>Trend</th><th>Owner</th><th>Dates</th><th>Linked risks</th><th></th></tr></thead><tbody>${rows||'<tr><td colspan="8" class="empty-state">No indicators yet. Add a KRI to start monitoring.</td></tr>'}</tbody></table></div></div>`; }
-  function riskReviewPage(){ const risks=riskStore(); const today=new Date('2026-08-15T00:00:00'); const sorted=[...risks].sort((a,b)=>parseRiskDate(a.review||'2030-01-01')-parseRiskDate(b.review||'2030-01-01')); const overdue=risks.filter(r=>r.review && parseRiskDate(r.review)<today).length; const next60=risks.filter(r=>r.review && parseRiskDate(r.review)>=today && parseRiskDate(r.review)<=new Date('2026-10-15T00:00:00')).length; const rows=sorted.map(r=>{ const rd=r.review?parseRiskDate(r.review):null; const badge=!rd?'<span class="badge gray">Not scheduled</span>':rd<today?'<span class="badge red">Overdue</span>':rd<=new Date('2026-10-15T00:00:00')?'<span class="badge amber">Due soon</span>':'<span class="badge gray">Scheduled</span>'; return `<tr><td><span class="control-ref">${r.id}</span><div class="control-title clickable-title" onclick="openRisk('${r.id}')">${r.title}</div></td><td>${r.status}</td><td><div class="control-sub">${r.owner||'Unassigned'}</div></td><td>${r.due||'Not set'}</td><td>${r.review||'Not set'}</td><td>${badge}</td><td><button class="table-action" onclick="openRisk('${r.id}')">Inspect</button></td></tr>`; }).join(''); return `<div class="risk-metrics"><div class="card evidence-metric"><span class="eyebrow">↻ Reviews due soon</span><strong>${next60}</strong><small>Next 60 days</small></div><div class="card evidence-metric"><span class="eyebrow">▲ Overdue reviews</span><strong class="metric-alert">${overdue}</strong><small>Past the planned date</small></div><div class="card evidence-metric"><span class="eyebrow">◌ Scheduled</span><strong>${risks.length-next60-overdue}</strong><small>Beyond the next 60 days</small></div><div class="card evidence-metric"><span class="eyebrow">◉ Register size</span><strong>${risks.length}</strong><small>Risks under review</small></div></div><div class="card panel"><div class="panel-head"><div><h2>Review schedule</h2><p>Every risk is re-assessed on its review date; decisions and scores are revisited together.</p></div><button class="link" onclick="exportRisksExcel()">Export register to Excel</button></div><div style="overflow:auto"><table><thead><tr><th>Risk</th><th>Decision</th><th>Owner</th><th>Treatment due</th><th>Next review</th><th>Status</th><th></th></tr></thead><tbody>${rows}</tbody></table></div></div>`; }
+  function kriClass(k){ return kriLevel(k)==='Breach'?'kri-breach':kriLevel(k)==='Watch'?'kri-watch':'kri-ok'; }
+  function kriTrend(k){ return k.trend==='Improving'?'<span class="trend-down">Improving</span>':k.trend==='Deteriorating'?'<span class="trend-up">Deteriorating</span>':'<span class="trend-flat">Stable</span>'; }
+  function riskKriPage(){ const kris=kriStore(); const breach=kris.filter(k=>kriLevel(k)==='Breach').length, watch=kris.filter(k=>kriLevel(k)==='Watch').length; const rows=kris.map(k=>`<tr><td><div class="control-title clickable-title" onclick="openKriEdit('${k.id}')">${k.name}</div><div class="control-sub">${k.description}</div></td><td><b class="kri-score ${kriClass(k)}">${k.value}${k.unit}</b><div class="control-sub">Limit ${k.warning}${k.unit} · breach ${k.breach}${k.unit}</div></td><td>${kriBadge(k)}</td><td>${kriTrend(k)}</td><td><div class="control-sub">${k.owner}</div><div class="control-sub">${k.frequency}</div></td><td><div class="control-sub">Measured ${k.measured?fmtDate(k.measured):'not yet'}</div><div class="control-sub">Next ${k.review?fmtDate(k.review):'not set'}</div></td><td><div class="control-sub">${(k.riskIds||[]).map(id=>`<span class="control-ref">${id}</span>`).join(' ')}</div></td><td><div class="row-actions"><button class="table-action" onclick="openKriEdit('${k.id}')">Edit</button><button class="table-action" onclick="deleteKri('${k.id}')">Remove</button></div></td></tr>`).join(''); return `<div class="risk-metrics"><div class="card evidence-metric"><span class="eyebrow">● Active KRIs</span><strong>${kris.length}</strong><small>Indicators under monitoring</small></div><div class="card evidence-metric"><span class="eyebrow">◐ Watch</span><strong class="metric-alert">${watch}</strong><small>Above warning limit</small></div><div class="card evidence-metric"><span class="eyebrow">▲ Breach</span><strong class="metric-alert">${breach}</strong><small>Above breach limit</small></div><div class="card evidence-metric"><span class="eyebrow">● Monitored risks</span><strong>${new Set(kris.flatMap(k=>k.riskIds||[])).size}</strong><small>Covered by the register</small></div></div><div class="card panel"><div class="panel-head"><div><h2>Key risk indicators</h2><p>Early-warning signals that follow each risk through its treatment and review cycle.</p></div><button class="link" onclick="exportKrisExcel()">Export to Excel</button></div><div style="overflow:auto"><table><thead><tr><th>Indicator</th><th>Current value</th><th>Status</th><th>Trend</th><th>Owner</th><th>Dates</th><th>Linked risks</th><th></th></tr></thead><tbody>${rows||'<tr><td colspan="8" class="empty-state">No indicators yet. Add a KRI to start monitoring.</td></tr>'}</tbody></table></div></div>`; }
+  function riskReviewPage(){ const risks=riskStore(); const today=new Date('2026-08-15T00:00:00'); const windowEnd=new Date('2026-09-15T00:00:00'); const queue=risks.filter(r=>{ const rd=r.review?parseRiskDate(r.review):null; return rd && rd<=windowEnd; }).sort((a,b)=>parseRiskDate(a.review)-parseRiskDate(b.review)); const overdue=queue.filter(r=>parseRiskDate(r.review)<today).length; const next30=queue.length-overdue; const reviewed=risks.filter(r=>r.lastReview).length; const rows=queue.map(r=>{ const rd=parseRiskDate(r.review); const badge=rd<today?'<span class="badge red">Overdue</span>':'<span class="badge amber">Due soon</span>'; return `<tr><td><span class="control-ref">${r.id}</span><div class="control-title clickable-title" onclick="openRisk('${r.id}')">${r.title}</div></td><td>${r.status}</td><td><div class="control-sub">${r.owner||'Unassigned'}</div></td><td>${r.due||'Not set'}</td><td>${r.review||'Not set'}</td><td>${badge}</td><td><div class="row-actions"><button class="table-action" onclick="openRiskReview('${r.id}')">Review</button><button class="table-action" onclick="openRisk('${r.id}')">Inspect</button></div></td></tr>`; }).join(''); return `<div class="risk-metrics"><div class="card evidence-metric"><span class="eyebrow">◐ Due in next 30 days</span><strong>${next30}</strong><small>Approaching review dates</small></div><div class="card evidence-metric"><span class="eyebrow">▲ Overdue reviews</span><strong class="metric-alert">${overdue}</strong><small>Past the planned date</small></div><div class="card evidence-metric"><span class="eyebrow">✓ Reviewed</span><strong>${reviewed}</strong><small>Recorded this cycle</small></div><div class="card evidence-metric"><span class="eyebrow">● Register size</span><strong>${risks.length}</strong><small>Risks under review</small></div></div><div class="card panel"><div class="panel-head"><div><h2>Review queue</h2><p>Only risks due in the next 30 days appear here. Recording a review updates the risk and moves it back to its next cycle.</p></div><button class="link" onclick="exportRisksExcel()">Export register to Excel</button></div><div style="overflow:auto"><table><thead><tr><th>Risk</th><th>Decision</th><th>Owner</th><th>Treatment due</th><th>Next review</th><th>Status</th><th></th></tr></thead><tbody>${rows||'<tr><td colspan="7" class="empty-state">No reviews due in the next 30 days. Everything is up to date.</td></tr>'}</tbody></table></div></div>`; }
+  function riskReviewForm(r){ const next=new Date(2026,7,15); next.setFullYear(next.getFullYear()+1); const iso=`${next.getFullYear()}-${String(next.getMonth()+1).padStart(2,'0')}-${String(next.getDate()).padStart(2,'0')}`; return `<div class="review-summary"><span>${levelBadge(score(r))} ${levelBadge(residual(r))}</span><span class="control-sub">${r.owner||'Unassigned'} · ${r.category}</span></div><div class="field"><label>Current decision</label><div class="control-sub">${r.status}${r.review?` · next review ${fmtDate(r.review)}`:' · not scheduled'}</div></div><div class="field"><label>Review outcome</label><select id="rv-outcome" onchange="updateRiskReviewForm()"><option ${r.status==='Mitigated Risk'?'selected':''}>Mitigated Risk</option><option ${r.status==='Risk Accepted'?'selected':''}>Risk Accepted</option><option ${r.status==='Risk Transferred'?'selected':''}>Risk Transferred</option><option ${r.status==='Risk Avoided'?'selected':''}>Risk Avoided</option></select><div class="field-help">Keep the current decision, or change it based on what the review found.</div></div><div class="field" id="rv-remediation-wrap" style="${r.status==='Mitigated Risk'?' ':'display:none'}"><label>Remediation plan</label><textarea id="rv-action" placeholder="Required for mitigated risks — what will reduce or monitor this risk?">${r.action||''}</textarea></div><div class="field"><label>Findings</label><textarea id="rv-findings" placeholder="What was reviewed, what changed, and what was decided?">${r.lastFindings||''}</textarea></div><div class="field"><label>Next review date</label><input id="rv-next" type="date" value="${iso}" /></div>`; }
+  window.updateRiskReviewForm=function(){ const wrap=document.getElementById('rv-remediation-wrap'); if(wrap) wrap.style.display=document.getElementById('rv-outcome').value==='Mitigated Risk'?'':'none'; };
+  window.openRiskReview=function(id){ const risk=riskStore().find(r=>r.id===id); if(!risk)return; document.body.insertAdjacentHTML('beforeend',`<div class="modal-backdrop" id="modal"><div class="modal risk-modal"><div class="modal-head"><div><div class="eyebrow">${risk.id} / Risk review</div><h2 style="margin-top:7px">${risk.title}</h2></div><button class="close" onclick="closeModal()">×</button></div><div class="modal-body">${riskReviewForm(risk)}<div class="modal-actions"><button class="button button-quiet" onclick="closeModal()">Cancel</button><button class="button button-primary" onclick="saveRiskReview('${id}')">Record review</button></div></div></div></div>`); };
+  window.saveRiskReview=function(id){ const risk=riskStore().find(r=>r.id===id); if(!risk)return; const findings=document.getElementById('rv-findings').value.trim(); if(!findings){ toast('Document the review findings.'); return; } const outcome=document.getElementById('rv-outcome').value; const action=document.getElementById('rv-action').value.trim(); if(outcome==='Mitigated Risk' && !action){ toast('Add a remediation plan for mitigated risks.'); return; } const next=document.getElementById('rv-next').value; if(!next){ toast('Choose the next review date.'); return; } risk.status=outcome; risk.treatment={'Mitigated Risk':'Reduce','Risk Accepted':'Accept','Risk Transferred':'Transfer','Risk Avoided':'Avoid'}[outcome]; if(outcome==='Mitigated Risk') risk.action=action; risk.review=next; risk.lastReview='2026-08-15'; risk.lastFindings=findings; saveRisks(); closeModal(); render(); toast(`Review recorded for ${id} · next review ${fmtDate(next)}`); };
   function kriForm(k){ const r=k||{name:'',description:'',riskIds:[],formula:'',unit:'',warning:'',breach:'',value:'',direction:'above',trend:'Stable',frequency:'Monthly',owner:'',measured:'',review:''}; const risks=riskStore(); return `<div class="field"><label>Indicator name</label><input id="kri-name" value="${r.name}" placeholder="e.g. Patch coverage lag on network devices" /></div><div class="field"><label>Description</label><textarea id="kri-description" placeholder="What does this indicator measure and why does it matter?">${r.description}</textarea></div><div class="field"><label>Linked risks</label><select id="kri-risks" multiple size="6">${risks.map(x=>`<option value="${x.id}" ${(r.riskIds||[]).includes(x.id)?'selected':''}>${x.id} · ${x.title}</option>`).join('')}</select><div class="field-help">Ctrl or ⌘ + click to select multiple risks.</div></div><div class="field"><label>Formula</label><input id="kri-formula" value="${r.formula}" placeholder="e.g. (Successful backups / scheduled backups) × 100" /></div><div class="detail-grid"><div class="field"><label>Current value</label><input id="kri-value" type="number" step="any" value="${r.value}" /></div><div class="field"><label>Unit</label><input id="kri-unit" value="${r.unit}" placeholder="%, days, count" /></div></div><div class="detail-grid"><div class="field"><label>Warning limit</label><input id="kri-warning" type="number" step="any" value="${r.warning}" /></div><div class="field"><label>Breach limit</label><input id="kri-breach" type="number" step="any" value="${r.breach}" /></div></div><div class="detail-grid"><div class="field"><label>Direction</label><select id="kri-direction"><option value="above" ${(r.direction||'above')==='above'?'selected':''}>Higher is worse</option><option value="below" ${r.direction==='below'?'selected':''}>Lower is worse</option></select></div><div class="field"><label>Trend</label><select id="kri-trend">${['Improving','Stable','Deteriorating'].map(t=>`<option ${r.trend===t?'selected':''}>${t}</option>`).join('')}</select></div></div><div class="detail-grid"><div class="field"><label>Frequency</label><select id="kri-frequency">${['Weekly','Monthly','Quarterly'].map(f=>`<option ${r.frequency===f?'selected':''}>${f}</option>`).join('')}</select></div><div class="field"><label>Owner</label><select id="kri-owner">${['Omar Al-Rashid','Yousef Qasem','Tariq Mansour','Sara Al-Mansouri','Hana Khalil','Layla Haddad','Karim Nasser','Dana Farhat','Bilal Haddad','Noura Aziz'].map(o=>`<option ${r.owner===o?'selected':''}>${o}</option>`).join('')}</select></div></div><div class="detail-grid"><div class="field"><label>Last measured</label><input id="kri-measured" type="date" value="${r.measured}" /></div><div class="field"><label>Next review</label><input id="kri-review" type="date" value="${r.review}" /></div></div>`; }
   window.openKriCreate=function(){ document.body.insertAdjacentHTML('beforeend',`<div class="modal-backdrop" id="modal"><div class="modal"><div class="modal-head"><div><div class="eyebrow">Risk monitoring / Key risk indicators</div><h2 style="margin-top:7px">Add key risk indicator</h2></div><button class="close" onclick="closeModal()">×</button></div><div class="modal-body">${kriForm()}<div class="modal-actions"><button class="button button-quiet" onclick="closeModal()">Cancel</button><button class="button button-primary" onclick="saveKri(null)">Add KRI</button></div></div></div></div>`); };
   window.openKriEdit=function(id){ const k=kriStore().find(x=>x.id===id); if(!k)return; document.body.insertAdjacentHTML('beforeend',`<div class="modal-backdrop" id="modal"><div class="modal"><div class="modal-head"><div><div class="eyebrow">Risk monitoring / Key risk indicators</div><h2 style="margin-top:7px">${k.name}</h2></div><button class="close" onclick="closeModal()">×</button></div><div class="modal-body">${kriForm(k)}<div class="modal-actions"><button class="button button-quiet" onclick="closeModal()">Cancel</button><button class="button button-primary" onclick="saveKri('${k.id}')">Save KRI</button></div></div></div></div>`); };
