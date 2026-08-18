@@ -20,7 +20,7 @@ body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(
 button, input, select { font: inherit; }
 button { cursor: pointer; }
 .shell { min-height: 100vh; display: grid; grid-template-columns: 248px 1fr; }
-.sidebar { background: var(--navy); color: #cad5d8; padding: 27px 18px 20px; display: flex; flex-direction: column; }
+.sidebar { background: var(--navy); color: #cad5d8; padding: 27px 18px 20px; display: flex; flex-direction: column; position: sticky; top: 0; height: 100vh; overflow-y: auto; }
 .brand { display: flex; align-items: center; gap: 10px; color: white; text-decoration: none; padding: 0 10px 34px; }
 .brand-mark { width: 29px; height: 29px; border: 1px solid #8bcdb9; border-radius: 50%; position: relative; }
 .brand-mark:after { content: ""; position: absolute; width: 11px; height: 11px; background: var(--coral); border-radius: 50%; top: 8px; left: 8px; }
