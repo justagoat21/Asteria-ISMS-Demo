@@ -450,3 +450,21 @@ h1 { color:#183b3a; }
 @media (max-width:720px) { .asset-metrics,.asset-insight-grid { grid-template-columns:1fr 1fr; } .asset-flow { align-items:flex-start; } .asset-flow-line { margin-top:12px; } .asset-context-grid { grid-template-columns:1fr; } }
 @media (max-width:1100px) { .audit-workbench { grid-template-columns:190px minmax(300px,1fr); } .audit-context { grid-column:1 / -1; } .action-board { grid-template-columns:repeat(4,minmax(220px,1fr)); } }
 @media (max-width:720px) { .workspace-context { display:none; } .drawer-body,.drawer-head { padding-left:20px; padding-right:20px; } .drawer-meta-grid { grid-template-columns:1fr; } .audit-workbench { display:block; } .audit-sidebar,.audit-main,.audit-context { margin-bottom:14px; } .test-result-grid { grid-template-columns:repeat(2,1fr); } .evidence-metrics { grid-template-columns:1fr 1fr; } .row-actions { flex-wrap:wrap; } }
+
+.risk-subnav { display:flex; gap:8px; margin:20px 0 0; flex-wrap:wrap; }
+.risk-subnav button { background:#fff; border:1px solid #dfe5e4; border-radius:8px; padding:9px 14px; font:600 12px var(--sans); color:#4c5b5a; cursor:pointer; }
+.risk-subnav button:hover { border-color:#c3cecc; }
+.risk-subnav button.active { background:#183b3a; border-color:#183b3a; color:#fff; }
+.kri-now { display:flex; align-items:center; gap:10px; }
+.kri-value { display:inline-block; position:relative; width:110px; height:6px; border-radius:3px; background:#e8eceb; vertical-align:middle; }
+.kri-value i { position:absolute; left:0; top:0; height:100%; border-radius:3px; }
+.trend-up { color:#c9684d; }
+.trend-down { color:#3b987e; }
+.trend-flat { color:#7c8889; }
+.plan-text { max-width:380px; color:#4c5b5a; line-height:1.45; font-size:12px; }
+.decision-list { display:flex; flex-direction:column; gap:12px; }
+.decision-row { display:grid; grid-template-columns:10px 1fr 1fr 40px; gap:10px; align-items:center; }
+.decision-dot { width:8px; height:8px; border-radius:50%; }
+.decision-bar { height:6px; border-radius:3px; background:#eef0f0; overflow:hidden; }
+.decision-bar i { display:block; height:100%; border-radius:3px; }
+.decision-row b { font-size:11px; color:#183b3a; text-align:right; }
