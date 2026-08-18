@@ -17,7 +17,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-002",
@@ -35,7 +35,7 @@
   "action": "Mitigate: implement and verify compensating controls for inadequate security controls and processes protecting data integrity on sip infrastructure, then re-assess at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Dec 2026",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-003",
@@ -53,7 +53,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-004",
@@ -71,7 +71,7 @@
   "action": "Mitigate: implement and verify compensating controls for inadequate security controls and processes leaving exposed vulnerable components such as ssh or ipsec vpn services, then re-assess at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Feb 2027",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-005",
@@ -89,7 +89,7 @@
   "action": "Mitigate: implement and verify compensating controls for weak or unencrypted communication protocols in sip infrastructure, then re-assess at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Mar 2027",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-006",
@@ -107,7 +107,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-007",
@@ -125,7 +125,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-008",
@@ -143,7 +143,7 @@
   "action": "Mitigate: implement and verify compensating controls for inadequate password management leaving management interfaces with weak or default credentials, then re-assess at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Nov 2026",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-009",
@@ -161,7 +161,7 @@
   "action": "Mitigate: implement and verify compensating controls for security weaknesses in infrastructure and processes leaving management interfaces exposed, then re-assess at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Dec 2026",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-010",
@@ -179,7 +179,7 @@
   "action": "Mitigate: implement and verify compensating controls for inadequate security controls and processes leaving internet-facing interfaces exposed to exploitation, then re-assess at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Jan 2027",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-011",
@@ -197,7 +197,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Feb 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-012",
@@ -215,7 +215,7 @@
   "action": "Mitigate: implement and verify compensating controls for inadequate security awareness among employees and administrators, then re-assess at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Mar 2027",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-013",
@@ -233,7 +233,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-014",
@@ -251,7 +251,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-015",
@@ -269,7 +269,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-016",
@@ -287,7 +287,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Dec 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-017",
@@ -305,7 +305,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-018",
@@ -323,7 +323,7 @@
   "action": "Mitigate: implement and verify compensating controls for default passwords not changed on network systems and devices, then re-assess at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Feb 2027",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-019",
@@ -341,7 +341,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-020",
@@ -359,7 +359,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-021",
@@ -377,7 +377,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-022",
@@ -395,7 +395,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-023",
@@ -413,7 +413,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Dec 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-024",
@@ -431,7 +431,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-025",
@@ -449,7 +449,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Feb 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-026",
@@ -467,7 +467,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-027",
@@ -485,7 +485,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-028",
@@ -503,7 +503,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-029",
@@ -521,7 +521,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-030",
@@ -539,7 +539,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Dec 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-031",
@@ -557,7 +557,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-032",
@@ -575,7 +575,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Feb 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-033",
@@ -593,7 +593,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-034",
@@ -611,7 +611,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-035",
@@ -629,7 +629,7 @@
   "action": "Mitigate: implement and verify compensating controls for insufficient ddos protection and network security controls on perimeter infrastructure, then re-assess at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Oct 2026",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-036",
@@ -647,7 +647,7 @@
   "action": "Mitigate: implement and verify compensating controls for insufficient ddos protection and network security controls on perimeter infrastructure, then re-assess at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Nov 2026",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-037",
@@ -665,7 +665,7 @@
   "action": "Mitigate: implement and verify compensating controls for insufficient ddos protection and network security controls on perimeter infrastructure, then re-assess at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Dec 2026",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-038",
@@ -683,7 +683,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-039",
@@ -701,7 +701,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Feb 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-040",
@@ -719,7 +719,7 @@
   "action": "Mitigate: implement and verify compensating controls for lack of dos protection mechanisms on network perimeter, then re-assess at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Mar 2027",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-041",
@@ -737,7 +737,7 @@
   "action": "Mitigate: implement and verify compensating controls for lack of dos protection mechanisms on network perimeter, then re-assess at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Apr 2027",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-042",
@@ -755,7 +755,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-043",
@@ -773,7 +773,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-044",
@@ -791,7 +791,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Dec 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-045",
@@ -809,7 +809,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-046",
@@ -827,7 +827,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Feb 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-047",
@@ -845,7 +845,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-048",
@@ -863,7 +863,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-049",
@@ -881,7 +881,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-050",
@@ -899,7 +899,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-051",
@@ -917,7 +917,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Dec 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-052",
@@ -935,7 +935,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-053",
@@ -953,7 +953,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Feb 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-054",
@@ -971,7 +971,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-055",
@@ -989,7 +989,7 @@
   "action": "Mitigate: implement and verify compensating controls for security misconfiguration in cloud infrastructure environments arising from a lack of enforced cloud security baselines and insufficient configuration auditing, then re-assess at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Apr 2027",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-056",
@@ -1007,7 +1007,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-057",
@@ -1025,7 +1025,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-058",
@@ -1043,7 +1043,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Dec 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-059",
@@ -1061,7 +1061,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-060",
@@ -1079,7 +1079,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Feb 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-061",
@@ -1097,7 +1097,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-062",
@@ -1115,7 +1115,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-063",
@@ -1133,7 +1133,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-064",
@@ -1151,7 +1151,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-065",
@@ -1169,7 +1169,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Dec 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-066",
@@ -1187,7 +1187,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-067",
@@ -1205,7 +1205,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Feb 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-068",
@@ -1223,7 +1223,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-069",
@@ -1241,7 +1241,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-070",
@@ -1259,7 +1259,7 @@
   "action": "Mitigate: implement and verify compensating controls for inadequate network management and sip protocol security controls, then re-assess at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Oct 2026",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-071",
@@ -1277,7 +1277,7 @@
   "action": "Mitigate: implement and verify compensating controls for inadequate network management and sip protocol security controls, then re-assess at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Nov 2026",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-072",
@@ -1295,7 +1295,7 @@
   "action": "Mitigate: implement and verify compensating controls for inadequate network management and roaming service security controls, then re-assess at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Dec 2026",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-073",
@@ -1313,7 +1313,7 @@
   "action": "Mitigate: implement and verify compensating controls for inadequate network management and call record integrity controls on gateway equipment, then re-assess at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Jan 2027",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-074",
@@ -1331,7 +1331,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Feb 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-075",
@@ -1349,7 +1349,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-076",
@@ -1367,7 +1367,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-077",
@@ -1385,7 +1385,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-078",
@@ -1403,7 +1403,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-079",
@@ -1421,7 +1421,7 @@
   "action": "Mitigate: implement and verify compensating controls for absence of documented web browser protection requirements, web filtering configurations, and browser hardening guidelines on employee endpoints, then re-assess at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Dec 2026",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-080",
@@ -1439,7 +1439,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-081",
@@ -1457,7 +1457,7 @@
   "action": "Mitigate: implement and verify compensating controls for absence of enforced web filtering controls and browser hardening configurations on employee endpoints, then re-assess at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Feb 2027",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-082",
@@ -1475,7 +1475,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-083",
@@ -1493,7 +1493,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-084",
@@ -1511,7 +1511,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-085",
@@ -1529,7 +1529,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-086",
@@ -1547,7 +1547,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Dec 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-087",
@@ -1565,7 +1565,7 @@
   "action": "Mitigate: implement and verify compensating controls for use of shared or generic user accounts in organizational systems eliminating individual user accountability, then re-assess at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Jan 2027",
-  "status": "In progress"
+  "status": "Mitigated Risk"
  },
  {
   "id": "R-088",
@@ -1583,7 +1583,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Feb 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-089",
@@ -1601,7 +1601,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-090",
@@ -1619,7 +1619,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-091",
@@ -1637,7 +1637,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-092",
@@ -1655,7 +1655,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-093",
@@ -1673,7 +1673,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Dec 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-094",
@@ -1691,7 +1691,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-095",
@@ -1709,7 +1709,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Feb 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-096",
@@ -1727,7 +1727,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-097",
@@ -1745,7 +1745,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-098",
@@ -1763,7 +1763,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-099",
@@ -1781,7 +1781,7 @@
   "action": "Avoid the activity driving this exposure and remove the associated service from the ISMS scope.",
   "due": "30 Sep 2026",
   "review": "15 Nov 2026",
-  "status": "Closed"
+  "status": "Risk Avoided"
  },
  {
   "id": "R-100",
@@ -1799,7 +1799,7 @@
   "action": "Avoid the activity driving this exposure and remove the associated service from the ISMS scope.",
   "due": "31 Oct 2026",
   "review": "15 Dec 2026",
-  "status": "Closed"
+  "status": "Risk Avoided"
  },
  {
   "id": "R-101",
@@ -1817,7 +1817,7 @@
   "action": "Avoid the activity driving this exposure and remove the associated service from the ISMS scope.",
   "due": "30 Nov 2026",
   "review": "15 Jan 2027",
-  "status": "Closed"
+  "status": "Risk Avoided"
  },
  {
   "id": "R-102",
@@ -1835,7 +1835,7 @@
   "action": "Avoid the activity driving this exposure and remove the associated service from the ISMS scope.",
   "due": "31 Dec 2026",
   "review": "15 Feb 2027",
-  "status": "Closed"
+  "status": "Risk Avoided"
  },
  {
   "id": "R-103",
@@ -1853,7 +1853,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-104",
@@ -1871,7 +1871,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-105",
@@ -1889,7 +1889,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-106",
@@ -1907,7 +1907,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-107",
@@ -1925,7 +1925,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Dec 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-108",
@@ -1943,7 +1943,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-109",
@@ -1961,7 +1961,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Feb 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-110",
@@ -1979,7 +1979,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-111",
@@ -1997,7 +1997,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-112",
@@ -2015,7 +2015,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-113",
@@ -2033,7 +2033,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-114",
@@ -2051,7 +2051,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Dec 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-115",
@@ -2069,7 +2069,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-116",
@@ -2087,7 +2087,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "28 Feb 2027",
   "review": "15 Feb 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-117",
@@ -2105,7 +2105,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Mar 2027",
   "review": "15 Mar 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-118",
@@ -2123,7 +2123,7 @@
   "action": "Avoid the activity driving this exposure and remove the associated service from the ISMS scope.",
   "due": "28 Feb 2027",
   "review": "15 Apr 2027",
-  "status": "Closed"
+  "status": "Risk Avoided"
  },
  {
   "id": "R-119",
@@ -2141,7 +2141,7 @@
   "action": "Avoid the activity driving this exposure and remove the associated service from the ISMS scope.",
   "due": "31 Mar 2027",
   "review": "15 Oct 2026",
-  "status": "Closed"
+  "status": "Risk Avoided"
  },
  {
   "id": "R-120",
@@ -2159,7 +2159,7 @@
   "action": "Transfer exposure to a managed security service or insurance arrangement and confirm coverage at renewal.",
   "due": "30 Sep 2026",
   "review": "15 Nov 2026",
-  "status": "In progress"
+  "status": "Risk Transferred"
  },
  {
   "id": "R-121",
@@ -2177,7 +2177,7 @@
   "action": "Transfer exposure to a managed security service or insurance arrangement and confirm coverage at renewal.",
   "due": "31 Oct 2026",
   "review": "15 Dec 2026",
-  "status": "In progress"
+  "status": "Risk Transferred"
  },
  {
   "id": "R-122",
@@ -2195,7 +2195,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-124",
@@ -2213,7 +2213,7 @@
   "action": "Transfer exposure to a managed security service or insurance arrangement and confirm coverage at renewal.",
   "due": "31 Dec 2026",
   "review": "15 Feb 2027",
-  "status": "In progress"
+  "status": "Risk Transferred"
  },
  {
   "id": "R-125",
@@ -2231,7 +2231,7 @@
   "action": "Transfer exposure to a managed security service or insurance arrangement and confirm coverage at renewal.",
   "due": "31 Jan 2027",
   "review": "15 Mar 2027",
-  "status": "In progress"
+  "status": "Risk Transferred"
  },
  {
   "id": "R-126",
@@ -2249,7 +2249,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Sep 2026",
   "review": "15 Apr 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-127",
@@ -2267,7 +2267,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Oct 2026",
   "review": "15 Oct 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-128",
@@ -2285,7 +2285,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "30 Nov 2026",
   "review": "15 Nov 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-129",
@@ -2303,7 +2303,7 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Dec 2026",
   "review": "15 Dec 2026",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  },
  {
   "id": "R-130",
@@ -2321,11 +2321,11 @@
   "action": "Accept residual risk within tolerance; document the rationale and monitor at the next review cycle.",
   "due": "31 Jan 2027",
   "review": "15 Jan 2027",
-  "status": "Accepted"
+  "status": "Risk Accepted"
  }
 ];
-  const riskStore=()=>{ state.risks=JSON.parse(localStorage.getItem('asteria-risks-v2') || 'null') || seedRisks.map(r=>({...r,assets:[...r.assets]})); return state.risks; };
-  const saveRisks=()=>localStorage.setItem('asteria-risks-v2',JSON.stringify(state.risks));
+  const riskStore=()=>{ state.risks=JSON.parse(localStorage.getItem('asteria-risks-v3') || 'null') || seedRisks.map(r=>({...r,assets:[...r.assets]})); return state.risks; };
+  const saveRisks=()=>localStorage.setItem('asteria-risks-v3',JSON.stringify(state.risks));
   const score=r=>Math.max(1,Math.min(25,(Number(r.likelihood)||1)*(Number(r.impact)||1)));
   const residual=r=>Math.max(1,Math.round(score(r)/(Number(r.controlEffectiveness)||1)));
   const level=n=>n>=16?'Critical':n>=10?'High':n>=5?'Medium':'Low';
@@ -2333,19 +2333,20 @@
   const assetName=id=>(state.assets||[]).find(a=>a.id===id)?.name || id;
   const riskAssetsPicker=risk=>`<details class="evidence-picker risk-assets-picker" ontoggle="positionDropdown(this)"><summary>${risk.assets?.length?`${risk.assets.length} linked assets`:'Link assets'} <span>⌄</span></summary><div class="evidence-menu"><input class="assignment-search" type="search" placeholder="Search assets..." oninput="filterAssignmentMenu(this)" />${(state.assets||[]).map(asset=>`<label><input type="checkbox" ${risk.assets?.includes(asset.id)?'checked':''} onchange="toggleRiskAsset('${risk.id}','${asset.id}',this.checked)" /><span>${asset.name}<small>${asset.domain} · ${asset.digitalType || asset.category}</small></span></label>`).join('')}</div></details>`;
   window.toggleRiskAsset=function(riskId,assetId,checked){ const risk=state.risks.find(r=>r.id===riskId); if(!risk)return; risk.assets=risk.assets||[]; risk.assets=risk.assets.filter(id=>id!==assetId); if(checked)risk.assets.push(assetId); saveRisks(); const open=document.querySelector('.risk-assets-picker[open]'); if(open){const summary=open.querySelector('summary'); summary.innerHTML=`${risk.assets.length?`${risk.assets.length} linked assets`:'Link assets'} <span>⌄</span>`;} toast(checked?'Asset linked to risk':'Asset unlinked from risk'); };
-  function riskRow(risk){return `<tr><td><span class="control-ref">${risk.id}</span></td><td><div class="control-title clickable-title" onclick="openRisk('${risk.id}')">${risk.title}</div><div class="control-sub">${risk.category}</div></td><td>${levelBadge(score(risk))}</td><td>${levelBadge(residual(risk))}</td><td>${riskAssetsPicker(risk)}<div class="control-sub">${risk.assets?.length||0} linked</div></td><td><div class="control-sub">${risk.owner||'Unassigned'}</div><div class="control-sub">${risk.due||'No due date'}</div></td><td>${risk.status==='In progress'?'<span class="badge amber">In progress</span>':risk.status==='Accepted'?'<span class="badge gray">Accepted</span>':'<span class="badge red">Open</span>'}</td><td><button class="table-action" onclick="openRisk('${risk.id}')">Inspect</button></td></tr>`;}
-  function riskPage(){ const risks=riskStore(),query=(state.riskQuery||'').toLowerCase(),category=state.riskCategory||'all',status=state.riskStatus||'all',categories=[...new Set(risks.map(r=>r.category))].sort(); const list=risks.filter(r=>(category==='all'||r.category===category)&&(status==='all'||r.status===status)&&`${r.id} ${r.title} ${r.category} ${r.owner} ${r.description}`.toLowerCase().includes(query)); const high=risks.filter(r=>level(score(r))==='High'||level(score(r))==='Critical').length,open=risks.filter(r=>r.status==='Open'||r.status==='In progress').length,overdue=risks.filter(r=>r.due && new Date(`${r.due}T00:00:00`)<new Date('2026-08-15T00:00:00') && r.status!=='Accepted').length; return layout(`<div class="page-head"><div><div class="eyebrow">Module 02 / Risk management</div><h1>See risk before it becomes loss.</h1><p class="subhead">A working risk register that connects business impact, assets, control effectiveness, owners, treatment decisions, and review dates.</p></div><button class="button button-primary" onclick="openRiskCreate()">+ Add risk</button></div><div class="risk-metrics"><div class="card evidence-metric"><span class="eyebrow">Total risks</span><strong>${risks.length}</strong><small>In the fictional register</small></div><div class="card evidence-metric"><span class="eyebrow">High exposure</span><strong class="metric-alert">${high}</strong><small>High or critical inherent risk</small></div><div class="card evidence-metric"><span class="eyebrow">Open treatment</span><strong>${open}</strong><small>Need action or monitoring</small></div><div class="card evidence-metric"><span class="eyebrow">Overdue review</span><strong class="metric-alert">${overdue}</strong><small>Past the planned date</small></div></div><div class="risk-method"><div><span class="eyebrow">Risk method</span><strong>Likelihood × impact</strong><small>Control effectiveness reduces residual exposure. Keep the calculation visible to the reviewer.</small></div><div class="risk-scale"><span class="risk-level low">Low 1–4</span><span class="risk-level medium">Medium 5–9</span><span class="risk-level high">High 10–15</span><span class="risk-level critical">Critical 16–25</span></div></div><div class="card panel risk-register-panel"><div class="panel-head"><div><h2>Risk register</h2><p>${list.length} visible risks · inherent and residual scores are shown together</p></div><button class="link" onclick="exportRisksExcel()">Export to Excel</button></div><div class="asset-toolbar"><div class="search"><input placeholder="Search risk, category, owner..." value="${state.riskQuery||''}" oninput="state.riskQuery=this.value;render()" /></div><select class="select" onchange="state.riskCategory=this.value;render()"><option value="all">All risk categories</option>${categories.map(c=>`<option ${category===c?'selected':''}>${c}</option>`).join('')}</select><select class="select" onchange="state.riskStatus=this.value;render()"><option value="all">All statuses</option><option ${status==='Open'?'selected':''}>Open</option><option ${status==='In progress'?'selected':''}>In progress</option><option ${status==='Accepted'?'selected':''}>Accepted</option></select></div><div style="overflow:auto"><table><thead><tr><th>ID</th><th>Risk</th><th>Inherent</th><th>Residual</th><th>Related assets</th><th>Owner / due</th><th>Status</th><th></th></tr></thead><tbody>${list.map(riskRow).join('')||'<tr><td colspan="8" class="empty-state">No risks match this view.</td></tr>'}</tbody></table></div></div><div class="risk-insight-grid"><div class="card panel"><div class="panel-head"><div><h2>Risk treatment queue</h2><p>The next decision for each high-exposure risk.</p></div></div>${risks.filter(r=>level(score(r))==='High'||level(score(r))==='Critical').slice(0,3).map(r=>`<div class="risk-queue-row"><span>${levelBadge(residual(r))}</span><div><strong>${r.title}</strong><small>${r.owner} · ${r.treatment} · due ${r.due}</small></div><button class="table-action" onclick="openRisk('${r.id}')">Review</button></div>`).join('')||'<div class="empty-state">No high exposure risks.</div>'}</div><div class="card panel"><div class="panel-head"><div><h2>Risk workflow</h2><p>How this register feeds the ISMS.</p></div></div><div class="risk-workflow"><span>Identify</span><i>→</i><span>Assess</span><i>→</i><span>Treat</span><i>→</i><span>Review</span></div></div></div>`,'Risk management'); }
-  function riskForm(risk){ const r=risk||{title:'',category:'Access management',description:'',likelihood:1,impact:1,controlEffectiveness:1,owner:'',treatment:'Reduce',action:'',due:'',review:'',status:'Open',assets:[]}; return `<div class="field"><label>Risk title</label><input id="risk-title" value="${r.title}" placeholder="e.g. Unauthorized access to critical service" /></div><div class="field"><label>Risk statement</label><textarea id="risk-description" placeholder="What could happen, to what, and with what consequence?">${r.description}</textarea></div><div class="detail-grid"><div class="field"><label>Category</label><input id="risk-category" value="${r.category}" /></div><div class="field"><label>Owner</label><input id="risk-owner" value="${r.owner}" placeholder="Accountable team" /></div></div><div class="detail-grid"><div class="field"><label>Likelihood (1–5)</label><select id="risk-likelihood">${[1,2,3,4,5].map(n=>`<option ${Number(r.likelihood)===n?'selected':''}>${n}</option>`).join('')}</select></div><div class="field"><label>Impact (1–5)</label><select id="risk-impact">${[1,2,3,4,5].map(n=>`<option ${Number(r.impact)===n?'selected':''}>${n}</option>`).join('')}</select></div></div><div class="field"><label>Control effectiveness (1 strong – 5 weak)</label><select id="risk-effectiveness">${[1,2,3,4,5].map(n=>`<option ${Number(r.controlEffectiveness)===n?'selected':''}>${n}</option>`).join('')}</select></div><div class="risk-score-preview"><span>Inherent score <strong id="risk-inherent-preview">${score(r)}</strong></span><span>Residual score <strong id="risk-residual-preview">${residual(r)}</strong></span></div><div class="field"><label>Related assets</label>${riskAssetsPicker(r)}</div><div class="detail-grid"><div class="field"><label>Treatment option</label><select id="risk-treatment"><option ${r.treatment==='Reduce'?'selected':''}>Reduce</option><option ${r.treatment==='Accept'?'selected':''}>Accept</option><option ${r.treatment==='Transfer'?'selected':''}>Transfer</option><option ${r.treatment==='Avoid'?'selected':''}>Avoid</option></select></div><div class="field"><label>Status</label><select id="risk-status"><option ${r.status==='Open'?'selected':''}>Open</option><option ${r.status==='In progress'?'selected':''}>In progress</option><option ${r.status==='Accepted'?'selected':''}>Accepted</option><option ${r.status==='Closed'?'selected':''}>Closed</option></select></div></div><div class="field"><label>Treatment action</label><textarea id="risk-action" placeholder="What will reduce or monitor this risk?">${r.action}</textarea></div><div class="detail-grid"><div class="field"><label>Treatment due date</label><input id="risk-due" type="date" value="${r.due}" /></div><div class="field"><label>Next review date</label><input id="risk-review" type="date" value="${r.review}" /></div></div>`; }
+  function riskRow(risk){return `<tr><td><span class="control-ref">${risk.id}</span></td><td><div class="control-title clickable-title" onclick="openRisk('${risk.id}')">${risk.title}</div><div class="control-sub">${risk.category}</div></td><td>${levelBadge(score(risk))}</td><td>${levelBadge(residual(risk))}</td><td>${riskAssetsPicker(risk)}<div class="control-sub">${risk.assets?.length||0} linked</div></td><td><div class="control-sub">${risk.owner||'Unassigned'}</div><div class="control-sub">${risk.due||'No due date'}</div></td><td>${risk.status==='Mitigated Risk'?'<span class="badge amber">Mitigated risk</span>':risk.status==='Risk Transferred'?'<span class="badge blue">Risk transferred</span>':risk.status==='Risk Avoided'?'<span class="badge green">Risk avoided</span>':'<span class="badge gray">Risk accepted</span>'}</td><td><button class="table-action" onclick="openRisk('${risk.id}')">Inspect</button></td></tr>`;}
+  function riskPage(){ const risks=riskStore(),query=(state.riskQuery||'').toLowerCase(),category=state.riskCategory||'all',status=state.riskStatus||'all',categories=[...new Set(risks.map(r=>r.category))].sort(); const list=risks.filter(r=>(category==='all'||r.category===category)&&(status==='all'||r.status===status)&&`${r.id} ${r.title} ${r.category} ${r.owner} ${r.description}`.toLowerCase().includes(query)); const high=risks.filter(r=>level(score(r))==='High'||level(score(r))==='Critical').length,open=risks.filter(r=>r.status==='Mitigated Risk'||r.status==='Risk Transferred').length,overdue=risks.filter(r=>r.due && new Date(`${r.due}T00:00:00`)<new Date('2026-08-15T00:00:00') && r.status!=='Risk Accepted').length; return layout(`<div class="page-head"><div><div class="eyebrow">Module 02 / Risk management</div><h1>See risk before it becomes loss.</h1><p class="subhead">A working risk register that connects business impact, assets, control effectiveness, owners, treatment decisions, and review dates.</p></div><button class="button button-primary" onclick="openRiskCreate()">+ Add risk</button></div><div class="risk-metrics"><div class="card evidence-metric"><span class="eyebrow">Total risks</span><strong>${risks.length}</strong><small>In the fictional register</small></div><div class="card evidence-metric"><span class="eyebrow">High exposure</span><strong class="metric-alert">${high}</strong><small>High or critical inherent risk</small></div><div class="card evidence-metric"><span class="eyebrow">Open treatment</span><strong>${open}</strong><small>Need action or monitoring</small></div><div class="card evidence-metric"><span class="eyebrow">Overdue review</span><strong class="metric-alert">${overdue}</strong><small>Past the planned date</small></div></div><div class="risk-method"><div><span class="eyebrow">Risk method</span><strong>Likelihood × impact</strong><small>Control effectiveness reduces residual exposure. Keep the calculation visible to the reviewer.</small></div><div class="risk-scale"><span class="risk-level low">Low 1–4</span><span class="risk-level medium">Medium 5–9</span><span class="risk-level high">High 10–15</span><span class="risk-level critical">Critical 16–25</span></div></div><div class="card panel risk-register-panel"><div class="panel-head"><div><h2>Risk register</h2><p>${list.length} visible risks · inherent and residual scores are shown together</p></div><button class="link" onclick="exportRisksExcel()">Export to Excel</button></div><div class="asset-toolbar"><div class="search"><input placeholder="Search risk, category, owner..." value="${state.riskQuery||''}" oninput="state.riskQuery=this.value;render()" /></div><select class="select" onchange="state.riskCategory=this.value;render()"><option value="all">All risk categories</option>${categories.map(c=>`<option ${category===c?'selected':''}>${c}</option>`).join('')}</select><select class="select" onchange="state.riskStatus=this.value;render()"><option value="all">All statuses</option><option ${status==='Mitigated Risk'?'selected':''}>Mitigated Risk</option><option ${status==='Risk Accepted'?'selected':''}>Risk Accepted</option><option ${status==='Risk Transferred'?'selected':''}>Risk Transferred</option><option ${status==='Risk Avoided'?'selected':''}>Risk Avoided</option></select></div><div style="overflow:auto"><table><thead><tr><th>ID</th><th>Risk</th><th>Inherent</th><th>Residual</th><th>Related assets</th><th>Owner / due</th><th>Status</th><th></th></tr></thead><tbody>${list.map(riskRow).join('')||'<tr><td colspan="8" class="empty-state">No risks match this view.</td></tr>'}</tbody></table></div></div><div class="risk-insight-grid"><div class="card panel"><div class="panel-head"><div><h2>Risk treatment queue</h2><p>The next decision for each high-exposure risk.</p></div></div>${risks.filter(r=>level(score(r))==='High'||level(score(r))==='Critical').slice(0,3).map(r=>`<div class="risk-queue-row"><span>${levelBadge(residual(r))}</span><div><strong>${r.title}</strong><small>${r.owner} · ${r.status} · due ${r.due}</small></div><button class="table-action" onclick="openRisk('${r.id}')">Review</button></div>`).join('')||'<div class="empty-state">No high exposure risks.</div>'}</div><div class="card panel"><div class="panel-head"><div><h2>Risk workflow</h2><p>How this register feeds the ISMS.</p></div></div><div class="risk-workflow"><span>Identify</span><i>→</i><span>Assess</span><i>→</i><span>Treat</span><i>→</i><span>Review</span></div></div></div>`,'Risk management'); }
+  function riskForm(risk){ const r=risk||{title:'',category:'Access management',description:'',likelihood:1,impact:1,controlEffectiveness:1,owner:'',action:'',due:'',review:'',status:'Risk Accepted',assets:[]}; return `<div class="field"><label>Risk title</label><input id="risk-title" value="${r.title}" placeholder="e.g. Unauthorized access to critical service" /></div><div class="field"><label>Risk statement</label><textarea id="risk-description" placeholder="What could happen, to what, and with what consequence?">${r.description}</textarea></div><div class="detail-grid"><div class="field"><label>Category</label><input id="risk-category" value="${r.category}" /></div><div class="field"><label>Owner</label><input id="risk-owner" value="${r.owner}" placeholder="Accountable team" /></div></div><div class="detail-grid"><div class="field"><label>Likelihood (1–5)</label><select id="risk-likelihood">${[1,2,3,4,5].map(n=>`<option ${Number(r.likelihood)===n?'selected':''}>${n}</option>`).join('')}</select></div><div class="field"><label>Impact (1–5)</label><select id="risk-impact">${[1,2,3,4,5].map(n=>`<option ${Number(r.impact)===n?'selected':''}>${n}</option>`).join('')}</select></div></div><div class="field"><label>Control effectiveness (1 strong – 5 weak)</label><select id="risk-effectiveness">${[1,2,3,4,5].map(n=>`<option ${Number(r.controlEffectiveness)===n?'selected':''}>${n}</option>`).join('')}</select></div><div class="risk-score-preview"><span>Inherent score <strong id="risk-inherent-preview">${score(r)}</strong></span><span>Residual score <strong id="risk-residual-preview">${residual(r)}</strong></span></div><div class="field"><label>Related assets</label>${riskAssetsPicker(r)}</div><div class="field"><label>Status</label><select id="risk-status" onchange="updateRiskForm()"><option ${r.status==='Mitigated Risk'?'selected':''}>Mitigated Risk</option><option ${r.status==='Risk Accepted'?'selected':''}>Risk Accepted</option><option ${r.status==='Risk Transferred'?'selected':''}>Risk Transferred</option><option ${r.status==='Risk Avoided'?'selected':''}>Risk Avoided</option></select></div><div class="field" id="risk-remediation-wrap" style="${r.status==='Mitigated Risk'?' ':'display:none'}"><label>Remediation plan</label><textarea id="risk-action" placeholder="Required for mitigated risks — what will reduce or monitor this risk?">${r.action}</textarea></div><div class="detail-grid"><div class="field"><label>Treatment due date</label><input id="risk-due" type="date" value="${r.due}" /></div><div class="field"><label>Next review date</label><input id="risk-review" type="date" value="${r.review}" /></div></div>`; }
   function openRisk(id){ const risk=riskStore().find(r=>r.id===id); if(!risk)return; document.body.insertAdjacentHTML('beforeend',`<div class="modal-backdrop" id="modal"><div class="modal risk-modal"><div class="modal-head"><div><div class="eyebrow">${risk.id} / Risk detail</div><h2 style="margin-top:7px">${risk.title}</h2><div style="margin-top:9px">${levelBadge(score(risk))} ${levelBadge(residual(risk))}</div></div><button class="close" onclick="closeModal()">×</button></div><div class="modal-body">${riskForm(risk)}<div class="modal-actions"><button class="button button-quiet" onclick="closeModal()">Cancel</button><button class="button button-primary" onclick="saveRisk('${id}')">Save risk</button></div></div></div></div>`); }
   function openRiskCreate(){ document.body.insertAdjacentHTML('beforeend',`<div class="modal-backdrop" id="modal"><div class="modal risk-modal"><div class="modal-head"><div><div class="eyebrow">Risk register / New item</div><h2 style="margin-top:7px">Add risk</h2></div><button class="close" onclick="closeModal()">×</button></div><div class="modal-body">${riskForm()}<div class="modal-actions"><button class="button button-quiet" onclick="closeModal()">Cancel</button><button class="button button-primary" onclick="saveRisk(null)">Add risk</button></div></div></div></div>`); }
-  window.saveRisk=function(id){ const existing=id?riskStore().find(r=>r.id===id):null; const risk=existing||{id:`R-${String(riskStore().length+1).padStart(3,'0')}`,assets:[]}; risk.title=document.getElementById('risk-title').value.trim()||'Untitled risk'; risk.description=document.getElementById('risk-description').value.trim(); risk.category=document.getElementById('risk-category').value.trim()||'General'; risk.owner=document.getElementById('risk-owner').value.trim(); risk.likelihood=Number(document.getElementById('risk-likelihood').value); risk.impact=Number(document.getElementById('risk-impact').value); risk.controlEffectiveness=Number(document.getElementById('risk-effectiveness').value); risk.treatment=document.getElementById('risk-treatment').value; risk.status=document.getElementById('risk-status').value; risk.action=document.getElementById('risk-action').value.trim(); risk.due=document.getElementById('risk-due').value; risk.review=document.getElementById('risk-review').value; if(!existing)state.risks.unshift(risk); saveRisks(); closeModal(); render(); toast(`${risk.id} ${existing?'updated':'added'} to the risk register`); };
-  window.exportRisksExcel=function(){ exportRowsToExcel(riskStore().map(r=>({ID:r.id,Title:r.title,Category:r.category,Description:r.description,'Inherent score':score(r), 'Residual score':residual(r),Owner:r.owner,Treatment:r.treatment,Action:r.action,Due:r.due,Review:r.review,Status:r.status,'Related assets':(r.assets||[]).map(assetName).join(', ')})),'risk-register.xlsx','Risk Register'); };
+  window.updateRiskForm=function(){ const wrap=document.getElementById('risk-remediation-wrap'); if(wrap) wrap.style.display=document.getElementById('risk-status').value==='Mitigated Risk'?'':'none'; };
+  window.saveRisk=function(id){ const existing=id?riskStore().find(r=>r.id===id):null; const risk=existing||{id:`R-${String(riskStore().length+1).padStart(3,'0')}`,assets:[]}; risk.title=document.getElementById('risk-title').value.trim()||'Untitled risk'; risk.description=document.getElementById('risk-description').value.trim(); risk.category=document.getElementById('risk-category').value.trim()||'General'; risk.owner=document.getElementById('risk-owner').value.trim(); risk.likelihood=Number(document.getElementById('risk-likelihood').value); risk.impact=Number(document.getElementById('risk-impact').value); risk.controlEffectiveness=Number(document.getElementById('risk-effectiveness').value); risk.status=document.getElementById('risk-status').value; risk.treatment={'Mitigated Risk':'Reduce','Risk Accepted':'Accept','Risk Transferred':'Transfer','Risk Avoided':'Avoid'}[risk.status]; risk.action=document.getElementById('risk-action').value.trim(); if(risk.status==='Mitigated Risk' && !risk.action){ toast('Add a remediation plan for mitigated risks.'); return; } risk.due=document.getElementById('risk-due').value; risk.review=document.getElementById('risk-review').value; if(!existing)state.risks.unshift(risk); saveRisks(); closeModal(); render(); toast(`${risk.id} ${existing?'updated':'added'} to the risk register`); };
+  window.exportRisksExcel=function(){ exportRowsToExcel(riskStore().map(r=>({ID:r.id,Title:r.title,Category:r.category,Description:r.description,'Inherent score':score(r), 'Residual score':residual(r),Owner:r.owner,'Remediation plan':r.action,Due:r.due,Review:r.review,Status:r.status,'Related assets':(r.assets||[]).map(assetName).join(', ')})),'risk-register.xlsx','Risk Register'); };
   window.riskPage=riskPage; window.openRisk=openRisk; window.openRiskCreate=openRiskCreate;
   const originalAssetPage=window.assetPage;
   function riskPicker(asset){ const refs=asset.riskRefs||[]; return `<details class="evidence-picker asset-table-controls" ontoggle="positionDropdown(this)"><summary>${refs.length?`${refs.length} linked`:'Link risks'} <span>⌄</span></summary><div class="evidence-menu"><input class="assignment-search" type="search" placeholder="Search risks..." oninput="filterAssignmentMenu(this)" />${riskStore().map(r=>`<label><input type="checkbox" ${refs.includes(r.id)?'checked':''} onchange="toggleAssetRisk('${asset.id}','${r.id}',this.checked)" /><span>${r.id} · ${r.title}<small>${level(score(r))}</small></span></label>`).join('')}</div></details>`; }
   window.toggleAssetRisk=function(assetId,riskId,checked){ const asset=(state.assets||[]).find(a=>a.id===assetId); if(!asset)return; asset.riskRefs=asset.riskRefs||[]; asset.riskRefs=asset.riskRefs.filter(id=>id!==riskId); if(checked)asset.riskRefs.push(riskId); localStorage.setItem('asteria-assets',JSON.stringify(state.assets)); const open=document.querySelector('.asset-table-controls[open]'); if(open){const summary=open.querySelector('summary');summary.innerHTML=`${asset.riskRefs.length?`${asset.riskRefs.length} linked`:'Link risks'} <span>⌄</span>`;} toast(checked?'Risk linked to asset':'Risk unlinked from asset'); };
   function decorateAssetRisks(){ const panel=document.querySelector('.asset-register-panel'),table=panel?.querySelector('table'); if(!table)return; const header=[...table.querySelectorAll('thead th')].find(th=>th.textContent.trim()==='Related controls'); if(header)header.textContent='Related risks'; table.querySelectorAll('tbody tr').forEach(row=>{const name=row.querySelector('.control-title')?.textContent.trim(),asset=(state.assets||[]).find(a=>a.name===name),cells=row.querySelectorAll('td'); if(!asset||!cells.length)return; const cell=cells[cells.length-2]; cell.innerHTML=riskPicker(asset);}); }
   nav=function(page,icon,label){ if(page==='roadmap') return ''; const item=`<button class="${state.page===page?'active':''}" onclick="navigate('${page}')"><span class="nav-icon">${icon}</span>${label}</button>`; if(page==='assets')return `${item}<button class="${state.page==='risk'?'active':''}" onclick="navigate('risk')"><span class="nav-icon">◇</span>Risk management</button>`; return page==='dashboard' && !window.assetModuleReady ? `${item}<button onclick="navigate('assets')"><span class="nav-icon">◆</span>Asset management</button>` : item; };
-  const previousRender=render; render=function(){ if(state.page==='risk'){ document.getElementById('tour-layer')?.remove(); document.getElementById('app').innerHTML=riskPage(); decorateLifecycleButtons(); } else previousRender(); if(state.page==='assets')requestAnimationFrame(decorateAssetRisks); };
+  const previousRender=render; render=function(){ if(state.page==='risk'){ document.getElementById('tour-layer')?.remove(); document.getElementById('app').innerHTML=riskPage(); } else previousRender(); if(state.page==='assets')requestAnimationFrame(decorateAssetRisks); };
   state.risks=riskStore(); render();
 })();

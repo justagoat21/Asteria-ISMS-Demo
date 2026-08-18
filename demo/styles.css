@@ -337,6 +337,7 @@ h1 { color:#183b3a; }
 .badge.green { background:#e0eee4; color:#377761; }
 .badge.amber { background:#f7ecd8; color:#a37531; }
 .badge.red { background:#f9e4dc; color:#ae5540; }
+.badge.blue { background:#e3eaf2; color:#5d7fa3; }
 .link,.table-action { color:#3d806c; }
 .link:hover,.table-action:hover { color:#b45c44; }
 .control-switch button.active { border-color:#79a58d; background:#edf5ed; }
