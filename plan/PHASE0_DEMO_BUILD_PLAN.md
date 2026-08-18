@@ -21,7 +21,7 @@ The demo is intentionally static-hostable and browser-persistent. It is not pres
 
 ### Demo workspace
 
-Use Noor FinTech, a fictional Riyadh-based payments organization with an in-progress ISMS. Seed the workspace with 93 ISO 27001:2022 Annex A controls across the four themes:
+Use Atlas Demo Co., a fictional Fictional Region-based payments organization with an in-progress ISMS. Seed the workspace with 93 ISO 27001:2022 Annex A controls across the four themes:
 
 - A.5 Organizational: 37 controls
 - A.6 People: 8 controls
@@ -108,7 +108,7 @@ Every table must carry an organization boundary where appropriate. Evidence file
 - Scaffold the static demo.
 - Establish the visual system and responsive shell.
 - Seed all 93 controls.
-- Add the Noor FinTech workspace.
+- Add the Atlas Demo Co. workspace.
 
 Acceptance: a visitor can load the app, navigate its main areas, and see the complete control catalogue.
 

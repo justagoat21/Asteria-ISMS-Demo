@@ -14,7 +14,7 @@ The demo is a static-hostable web application with a functional browser-persiste
 
 `ISO controls -> implementation status -> Statement of Applicability -> evidence links -> readiness score -> export`
 
-The Noor FinTech demo workspace is pre-populated with an in-progress ISO 27001:2022 program. Future modules are represented by a concise roadmap view rather than fake functionality.
+The Atlas Demo Co. demo workspace is pre-populated with an in-progress ISO 27001:2022 program. Future modules are represented by a concise roadmap view rather than fake functionality.
 
 ### Phase 1: ISO Compliance Core
 

@@ -307,6 +307,6 @@ The first paid package should make three promises exceptionally well:
 - Secureframe: https://secureframe.com/
 - Hyperproof Platform: https://hyperproof.io/platform/
 - Advisera ISO 27001 control guidance: https://advisera.com/27001academy/iso-27001-controls/
-- Supplied `ISO Gap Assessment Report.xlsx`
+- Supplied `fictional-crf-catalogue.json`
 
 Competitor capabilities above are based on public product pages and should be validated during live demonstrations and procurement conversations before making claims in sales material.
