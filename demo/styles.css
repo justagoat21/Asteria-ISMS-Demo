@@ -330,6 +330,8 @@ h1 { color:#183b3a; }
 .risk-pill.critical { color:#fff; background:#9e3e35; }
 .risk-pill.medium { color:#a37531; background:#f7ecd8; }
 .risk-pill.low { color:#397761; background:#e0eee4; }
+.dashboard-switch { margin: -2px 0 14px; }
+.dashboard-switch button { font-size:11px; padding:8px 11px; }
 .control-ref { color:#4c8d78; }
 .control-title { color:#183b3a; }
 .badge.green { background:#e0eee4; color:#377761; }
