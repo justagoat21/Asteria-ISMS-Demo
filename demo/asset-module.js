@@ -45,6 +45,19 @@
   render();
 })();
 
+/* Inline control assignment for the Asset Register table. */
+(function () {
+  function picker(asset) {
+    const refs=asset.refs || [];
+    return `<details class="evidence-picker asset-table-controls" ontoggle="positionDropdown(this)"><summary>${refs.length ? `${refs.length} linked` : 'Link controls'} <span>⌄</span></summary><div class="evidence-menu"><input class="assignment-search" type="search" placeholder="Search ISO controls..." oninput="filterAssignmentMenu(this)" />${controls.map(control=>`<label><input type="checkbox" ${refs.includes(control.ref)?'checked':''} onchange="toggleAssetControl('${asset.id}','${control.ref}',this.checked)" /><span>${control.ref} · ${control.title}<small>${control.theme} theme</small></span></label>`).join('')}</div></details>`;
+  }
+  window.toggleAssetControl=function(id,ref,checked){ const asset=(state.assets||[]).find(item=>item.id===id); if(!asset)return; asset.refs=asset.refs||[]; asset.refs=asset.refs.filter(item=>item!==ref); if(checked)asset.refs.push(ref); localStorage.setItem('asteria-assets',JSON.stringify(state.assets)); toast(checked?`${ref} linked to ${asset.name}`:`${ref} unlinked from ${asset.name}`); const open=document.querySelector('.asset-table-controls[open]'); if(open){const summary=open.querySelector('summary');summary.innerHTML=`${asset.refs.length?`${asset.refs.length} linked`:'Link controls'} <span>⌄</span>`;}}
+  function decorate(){ const panel=document.querySelector('.asset-register-panel'); const table=panel?.querySelector('table'); if(!table || table.dataset.controlsReady)return; const header=table.querySelector('thead tr'); const actionHeader=header?.lastElementChild; if(!header || !actionHeader)return; const th=document.createElement('th'); th.textContent='Related controls'; header.insertBefore(th,actionHeader); table.querySelectorAll('tbody tr').forEach(row=>{const name=row.querySelector('.control-title')?.textContent.trim(); const asset=(state.assets||[]).find(item=>item.name===name); const action=row.lastElementChild; if(!asset || !action)return; const td=document.createElement('td'); td.innerHTML=picker(asset); row.insertBefore(td,action);}); table.dataset.controlsReady='1'; }
+  const originalRender=render;
+  render=function(){ originalRender(); if(state.page==='assets')requestAnimationFrame(decorate); };
+  if(state.page==='assets')requestAnimationFrame(decorate);
+})();
+
 /* Expose the module functions to the legacy shell and add the control picker. */
 (function () {
   const DIGITAL_TYPES = ['Cloud VM','Cloud Database','Cloud Storage','SaaS Application','Security Service','Network Service','Server','Endpoint Device','Virtual Network'];

@@ -397,6 +397,8 @@ h1 { color:#183b3a; }
 .asset-context-grid { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
 .asset-context-grid span { display:block; padding:9px; background:#f7f7f2; border-radius:4px; color:#88948f; font:10px var(--mono); }
 .asset-context-grid b { display:block; color:#183b3a; font:11px var(--sans); margin-top:4px; word-break:break-word; }
+.asset-table-controls { min-width:150px; }
+.asset-table-controls summary { height:32px; }
 @media (max-width:1000px) { .asset-metrics,.asset-insight-grid { grid-template-columns:repeat(2,1fr); } }
 @media (max-width:720px) { .asset-metrics,.asset-insight-grid { grid-template-columns:1fr 1fr; } .asset-flow { align-items:flex-start; } .asset-flow-line { margin-top:12px; } .asset-context-grid { grid-template-columns:1fr; } }
 @media (max-width:1100px) { .audit-workbench { grid-template-columns:190px minmax(300px,1fr); } .audit-context { grid-column:1 / -1; } .action-board { grid-template-columns:repeat(4,minmax(220px,1fr)); } }
