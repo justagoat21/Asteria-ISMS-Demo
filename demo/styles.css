@@ -310,6 +310,26 @@ h1 { color:#183b3a; }
 .stat-card .stat-number { color:#183b3a; }
 .callout { background:#f1e7d7; border-color:#e7d8bd; }
 .callout h3 { color:#684b35; }
+.stat-card { cursor:pointer; }
+.stat-card:hover { box-shadow:var(--shadow); }
+.stat-meta.bad { color:#a6503e; }
+.dist-bar { display:flex; height:12px; border-radius:8px; overflow:hidden; background:#f0f1ec; margin:16px 0 12px; }
+.dist-bar i { display:block; height:100%; }
+.dist-legend { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; }
+.dist-legend span { display:flex; align-items:center; gap:6px; font-size:11px; color:#5f6d68; }
+.dist-legend i { width:9px; height:9px; border-radius:3px; }
+.dist-legend b { margin-left:auto; font:11px var(--mono); color:#183b3a; }
+.risk-mini { display:grid; grid-template-columns:auto 1fr auto; align-items:center; gap:11px; width:100%; text-align:left; background:transparent; border:0; border-top:1px solid #eef0ef; padding:13px 0; cursor:pointer; }
+.risk-mini:hover .risk-mini-title { color:#c9684d; }
+.risk-mini:first-of-type { border-top:0; }
+.risk-mini-title { font-size:12px; color:#263238; font-weight:600; }
+.risk-mini-title small { display:block; font-weight:400; color:#8b9793; font-size:10px; margin-top:3px; }
+.risk-mini b { font:11px var(--mono); color:#183b3a; }
+.risk-pill { padding:3px 6px; border-radius:3px; font:9px var(--mono); white-space:nowrap; }
+.risk-pill.high { color:#a6503e; background:#f9e4dc; }
+.risk-pill.critical { color:#fff; background:#9e3e35; }
+.risk-pill.medium { color:#a37531; background:#f7ecd8; }
+.risk-pill.low { color:#397761; background:#e0eee4; }
 .control-ref { color:#4c8d78; }
 .control-title { color:#183b3a; }
 .badge.green { background:#e0eee4; color:#377761; }
